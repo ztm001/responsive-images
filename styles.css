@@ -1,0 +1,20 @@
+img {
+	max-width:100%;
+	height:auto;
+	margin:0 auto;
+	display:block;
+}
+
+body {
+	margin:0;
+}
+
+#wrapper {
+	background:#eee;
+}
+
+#container {
+	margin:0 auto;
+	width:88%;
+	max-width:960px;
+}
