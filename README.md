@@ -4,7 +4,7 @@ Course related material HTML / CSS, Javascript
 
 ## Dependencies
 
-* Polyfill.js
+* Picturefill.js
 
 ## Responsive Images
 
