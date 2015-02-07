@@ -4,7 +4,7 @@ Course related material HTML / CSS, Javascript
 
 ## Dependencies
 
-* Picturefill.js
+* Picturefill.js (For older browsers)
 
 ## Responsive Images
 
